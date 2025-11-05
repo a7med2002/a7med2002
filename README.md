@@ -16,7 +16,7 @@ A passionate Flutter developer from Palestine 🇵🇸
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)  
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmeddev&show_icons=true&theme=radical)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a7med2002&show_icons=true&theme=radical)
 
 ### 🔗 Connect with me:
 
