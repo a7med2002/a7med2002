@@ -25,5 +25,5 @@ A passionate Flutter developer from Palestine 🇵🇸
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-meqdad-3b756733b/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ahmd2002mqdad@gmail.com)
-[![Khamsat](https://img.shields.io/badge/-خمسات-F7AD10?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRjdBRDEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMyIvPjwvc3ZnPg==)](https://khamsat.com/user/ahmed_meqdad)
-[![Mostaql](https://img.shields.io/badge/-Mostaqel-2CABE3?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMkNBQkUzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMyIvPjwvc3ZnPg==)](https://mostaql.com/u/ahmed_meqdad/portfolio)
+[![Khamsat](https://img.shields.io/badge/-Khamsat-F7AD10?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRjdBRDEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMyIvPjwvc3ZnPg==)](https://khamsat.com/user/ahmed_meqdad)
+[![Mostaql](https://img.shields.io/badge/-Mostaql-2CABE3?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMkNBQkUzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMyIvPjwvc3ZnPg==)](https://mostaql.com/u/ahmed_meqdad/portfolio)
