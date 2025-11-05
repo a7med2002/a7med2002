@@ -15,7 +15,6 @@ A passionate Flutter developer from Palestine 🇵🇸
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
 ![GetX](https://img.shields.io/badge/-GetX-68BDF6?logo=flutter&logoColor=white)  
