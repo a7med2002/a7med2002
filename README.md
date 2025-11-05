@@ -5,7 +5,7 @@ I love building **pixel-perfect, responsive mobile apps** with clean architectur
 ---
 
 ### 🔭 Currently Working On
-- [**Betweener App**](https://github.com/a7med2002/betweener_app.git) – A social link-sharing app with QR codes, Flutter & Firebase.
+- [**Betweener App**](https://github.com/a7med2002/betweener_app.git) – A social link-sharing app with QR codes, Flutter & Postman.
 
 ### 🌱 Currently Learning
 - Advanced **state management** & **performance optimization** in Flutter.
