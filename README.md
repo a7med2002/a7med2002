@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi 👋, I'm Ahmed  
+A passionate Flutter developer from Palestine 🇵🇸
 
-<!--
-**a7med2002/a7med2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working on a Quran app with audio, images, and tafsir  
+- 🌱 Learning advanced state management and performance optimization  
+- 👯 Looking to collaborate on open-source Islamic apps  
+- 💬 Ask me about Flutter, Dart, and API integrations  
+- 📫 Reach me at: ahmed.quran.dev@gmail.com  
+- 📄 Know more: [LinkedIn](https://www.linkedin.com/in/ahmeddev)  
+- ⚡ Fun fact: I love pixel-perfect UI 😄  
 
-Here are some ideas to get you started:
+### 🧰 Languages and Tools  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmeddev&show_icons=true&theme=radical)
