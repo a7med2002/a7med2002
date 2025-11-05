@@ -57,5 +57,10 @@ I love building **pixel-perfect, responsive mobile apps** with clean architectur
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Pulse
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a7med2002&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a7med2002&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a7med2002&theme=radical)
+
