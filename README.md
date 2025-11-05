@@ -14,7 +14,12 @@ A passionate Flutter developer from Palestine 🇵🇸
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
+![GetX](https://img.shields.io/badge/-GetX-68BDF6?logo=flutter&logoColor=white)  
+![Provider](https://img.shields.io/badge/-Provider-0A9396?logo=flutter&logoColor=white)
+
 <!-- ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a7med2002&show_icons=true&theme=radical) -->
 ### 🔗 Connect with me:
 
