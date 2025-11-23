@@ -19,7 +19,7 @@ I love building **pixel-perfect, responsive mobile apps** with clean architectur
 
 ### 📫 Reach Me At
 - Email: [ahmd2002mqdad@gmail.com](mailto:ahmd2002mqdad@gmail.com)  
-- LinkedIn: [linkedin.com/in/ahmed-meqdad-3b756733b](https://www.linkedin.com/in/ahmedmeqdad0)
+- LinkedIn: [linkedin.com/in/ahmedmeqdad0](https://www.linkedin.com/in/ahmedmeqdad0)
 
 ### ⚡ Fun Fact
 - I love **pixel-perfect UI designs** and exploring **new Flutter packages** 😄
