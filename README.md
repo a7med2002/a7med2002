@@ -83,7 +83,7 @@ I love building **pixel-perfect, responsive mobile apps** with clean architectur
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a7med2002&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a7med2002&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=a7med2002&theme=radical)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=a7med2002&theme=radical&margin-w=10&margin-h=10&row=1&column=6)
 
