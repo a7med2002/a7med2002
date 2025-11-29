@@ -57,7 +57,7 @@ I love building **pixel-perfect, responsive mobile apps** with clean architectur
 ---
 
 ## 🔗 Connect With Me
-<p align="center">
+<p>
   <a href="mailto:ahmd2002mqdad@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
@@ -78,7 +78,14 @@ I love building **pixel-perfect, responsive mobile apps** with clean architectur
 ---
 
 ### 📈 GitHub Pulse
+
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a7med2002&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a7med2002&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a7med2002&theme=radical)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=a7med2002&theme=radical&margin-w=10&margin-h=10&row=1&column=6)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=a7med2002&theme=radical)
 
