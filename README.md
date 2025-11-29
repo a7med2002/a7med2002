@@ -32,7 +32,6 @@ I love building **pixel-perfect, responsive mobile apps** with clean architectur
 <p>
   <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-003B57?logo=sqlite&logoColor=white" />
 </p>
 
 ### **Frameworks & Libraries**
@@ -58,23 +57,25 @@ I love building **pixel-perfect, responsive mobile apps** with clean architectur
 ---
 
 ## 🔗 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/ahmed-meqdad-3b756733b/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
+<p align="center">
   <a href="mailto:ahmd2002mqdad@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://khamsat.com/user/ahmed_meqdad">
-    <img src="https://img.shields.io/badge/-Khamsat-F7AD10" />
+  <a href="https://www.linkedin.com/in/ahmedmeqdad0">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://mostaql.com/u/ahmed_meqdad/portfolio">
-    <img src="https://img.shields.io/badge/-Mostaql-2CABE3" />
+  <a href="https://x.com/ahmedmeqdad0">
+    <img src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://instagram.com/ahmedmeqdad0">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://facebook.com/ahmedmeqdad0">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
 ---
-
 
 ### 📈 GitHub Pulse
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a7med2002&show_icons=true&theme=radical)
