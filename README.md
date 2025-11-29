@@ -26,36 +26,55 @@ I love building **pixel-perfect, responsive mobile apps** with clean architectur
 
 ---
 
-### 🧰 Languages & Tools
+## 🧰 Languages & Tools
 
-#### **Languages**
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sqlite&logoColor=white)  
+### **Languages**
+<p>
+  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-003B57?logo=sqlite&logoColor=white" />
+</p>
 
-#### **Frameworks & Libraries**
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)  
-![GetX](https://img.shields.io/badge/-GetX-68BDF6?logo=flutter&logoColor=white)  
-![Provider](https://img.shields.io/badge/-Provider-0A9396?logo=flutter&logoColor=white)  
+### **Frameworks & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GetX-68BDF6?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Provider-0A9396?logo=flutter&logoColor=white" />
+</p>
 
-#### **Backend & APIs**
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
+### **Backend & APIs**
+<p>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" />
+</p>
 
-#### **Tools & Design**
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
-![Git](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+### **Tools & Design**
+<p>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
+</p>
 
 ---
 
-### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-meqdad-3b756733b/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ahmd2002mqdad@gmail.com)  
-[![Khamsat](https://img.shields.io/badge/-Khamsat-F7AD10?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRjdBRDEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgcng9IjMiLz48L3N2Zz4=)](https://khamsat.com/user/ahmed_meqdad)  
-[![Mostaql](https://img.shields.io/badge/-Mostaql-2CABE3?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMkNBQkUzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgcng9IjMiLz48L3N2Zz4=)](https://mostaql.com/u/ahmed_meqdad/portfolio)
+## 🔗 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/ahmed-meqdad-3b756733b/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ahmd2002mqdad@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://khamsat.com/user/ahmed_meqdad">
+    <img src="https://img.shields.io/badge/-Khamsat-F7AD10" />
+  </a>
+  <a href="https://mostaql.com/u/ahmed_meqdad/portfolio">
+    <img src="https://img.shields.io/badge/-Mostaql-2CABE3" />
+  </a>
+</p>
 
 ---
+
 
 ### 📈 GitHub Pulse
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a7med2002&show_icons=true&theme=radical)
