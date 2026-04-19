@@ -5,7 +5,8 @@ I love building **pixel-perfect, responsive mobile apps** with clean architectur
 ---
 
 ### 🔭 Currently Working On
-- [**GazaPay App**](https://github.com/a7med2002/gazapay_app.git) – An offline digital wallet designed to facilitate secure payments without internet connectivity, built using Flutter.
+- [**Library Manangment App**](https://github.com/a7med2002/Library-Management-App.git) – A cross-platform **Flutter application** designed to manage library operations efficiently.  
+Built with modern technologies like **Firebase**, **ObjectBox**, and **GetX**, this project combines cloud-based authentication, local persistence, and a clean architecture to deliver a robust solution for library and printing services.
 
 ### 🌱 Currently Learning
 - Advanced **state management** & **performance optimization** in Flutter.
