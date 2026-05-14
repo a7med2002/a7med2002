@@ -5,8 +5,8 @@ I love building **pixel-perfect, responsive mobile apps** with clean architectur
 ---
 
 ### 🔭 Currently Working On
-- [**Library Manangment App**](https://github.com/a7med2002/Library-Management-App.git) – A cross-platform **Flutter application** designed to manage library operations efficiently.  
-Built with modern technologies like **Firebase**, **ObjectBox**, and **GetX**, this project combines cloud-based authentication, local persistence, and a clean architecture to deliver a robust solution for library and printing services.
+- [**Dental Manangment App**](https://github.com/a7med2002/dental_management_app.git) – A responsive cross-platform Flutter application for desktop and mobile, designed to manage dental clinic operations efficiently.
+The app handles patients, appointments, treatments, payments, debts, medical records, and laboratory management through a modern and scalable system. Built using Supabase for backend services and Provider for state management, with a clean and user-friendly interface optimized for daily clinic workflows.
 
 ### 🌱 Currently Learning
 - Advanced **state management** & **performance optimization** in Flutter.
