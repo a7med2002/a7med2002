@@ -5,7 +5,7 @@ I love building **pixel-perfect, responsive mobile apps** with clean architectur
 ---
 
 ### 🔭 Currently Working On
-- [**Dental Manangment App**](https://github.com/a7med2002/dental_management_app.git) – A responsive cross-platform Flutter application for desktop and mobile, designed to manage dental clinic operations efficiently.
+- [**Dental Manangment App**](https://github.com/a7med2002/dental_management_system.git) – A responsive cross-platform Flutter application for desktop and mobile, designed to manage dental clinic operations efficiently.
 The app handles patients, appointments, treatments, payments, debts, medical records, and laboratory management through a modern and scalable system. Built using Supabase for backend services and Provider for state management, with a clean and user-friendly interface optimized for daily clinic workflows.
 
 ### 🌱 Currently Learning
