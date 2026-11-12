@@ -5,8 +5,7 @@ I love building **pixel-perfect, responsive mobile apps** with clean architectur
 ---
 
 ### 🔭 Currently Working On
-- [**Dental Manangment App**](https://github.com/a7med2002/dental_management_system.git) – A responsive cross-platform Flutter application for desktop and mobile, designed to manage dental clinic operations efficiently.
-The app handles patients, appointments, treatments, payments, debts, medical records, and laboratory management through a modern and scalable system. Built using Supabase for backend services and Provider for state management, with a clean and user-friendly interface optimized for daily clinic workflows.
+- [**eSIM Dafter App**](https://github.com/a7med2002/sim_sales_manager.git) – Offline-first eSIM & SIM sales management for independent sellers. Track supplier balances, customers, lines, payments, and profit — with or without internet.
 
 ### 🌱 Currently Learning
 - Advanced **state management** & **performance optimization** in Flutter.
