@@ -39,11 +39,14 @@ I love building **pixel-perfect, responsive mobile apps** with clean architectur
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/-GetX-68BDF6?logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/-Provider-0A9396?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bloc-12B9FF?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cubit-6C4AB6?logo=flutter&logoColor=white" />
 </p>
 
 ### **Backend & APIs**
 <p>
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" />
 </p>
 
